@@ -1,5 +1,7 @@
 ## Labs for Differential Equations course at University of Washington Tacoma.
 
+![alt text](https://github.com/briiaan/differential_equations_labs/blob/main/UWTacoma_Logo.png "UW Tacoma")
+
 ## TMATH 207 Introduction to Differential Equations
 
 ![Pyhon](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
